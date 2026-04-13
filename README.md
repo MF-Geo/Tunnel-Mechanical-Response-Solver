@@ -41,15 +41,7 @@ This software is distributed as a standalone Windows executable. **No Python env
 
 *(Recommended: Create a `docs/images` folder in your repo and upload your screenshots there to replace these placeholders.)*
 
----
 
-## 📖 Methodology
-
-The core engine is based on the **Non-linear Analytical Rock (NAR)** model. Unlike traditional piecewise linear models, the NAR model utilizes a unified evolution function:
-
-$$\xi(\gamma) = \frac{n \gamma}{n - 1 + \gamma^n}$$
-
-This ensures mathematical continuity across peak and residual states, significantly enhancing the convergence stability of the BVP solver during elasto-plastic analysis.
 
 ---
 
