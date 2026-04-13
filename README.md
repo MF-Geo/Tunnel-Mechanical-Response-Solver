@@ -6,7 +6,7 @@
 
 **Tunnel Solver** is a high-performance Windows application designed for the rapid assessment of elasto-plastic deformation in deeply-buried tunnels. It strictly couples the **Non-linear Analytical Rock (NAR)** constitutive model with a semi-analytical **Boundary Value Problem (BVP)** solver.
 
-Developed by a collaborative research team from **Monash University**, **The University of Sydney**, and **Wuhan University**.
+Developed by a collaborative research team from  **The University of Sydney**,**Monash University**, and **Wuhan University**.
 
 ---
 
@@ -14,7 +14,7 @@ Developed by a collaborative research team from **Monash University**, **The Uni
 
 This software is distributed as a standalone Windows executable. **No Python environment or installation is required.**
 
-1.  Navigate to the **[Releases](https://github.com/YOUR_USERNAME/Tunnel-Solver/releases)** page.
+1.  Navigate to the **[Releases](https://drive.google.com/file/d/1W3MLGwAIxR7kQH8bWUslorAco6Jslsi1/view?usp=drive_link)** page.
 2.  Download the latest package: `Tunnel_Solver_v0.11.zip`.
 3.  Extract the ZIP file to a local folder.
 4.  Double-click `Tunnel_Solver.exe` to launch the application.
