@@ -15,7 +15,7 @@ Developed by a collaborative research team from  **The University of Sydney**,**
 This software is distributed as a standalone Windows executable. **No Python environment or installation is required.**
 
 1.  Navigate to the **[Releases](https://drive.google.com/file/d/1W3MLGwAIxR7kQH8bWUslorAco6Jslsi1/view?usp=drive_link)** page.
-2.  Download the latest package: `Tunnel_Solver_v0.11.zip`.
+2.  Download the latest package: `Tunnel Mechanical Response Solver.zip`.
 3.  Extract the ZIP file to a local folder.
 4.  Double-click `Tunnel_Solver.exe` to launch the application.
 
