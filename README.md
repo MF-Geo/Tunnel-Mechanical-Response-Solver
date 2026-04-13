@@ -39,7 +39,7 @@ This software is distributed as a standalone Windows executable. **No Python env
 | :---: | :---: | :---: |
 | ![Calibration](GUI_Figures/Calibration_lab_tests.png) | ![Empirical](GUI_Figures/empirical_method.png) | ![Simulation](GUI_Figures/deep_tunnel.png) |
 
-*(Recommended: Create a `docs/images` folder in your repo and upload your screenshots there to replace these placeholders.)*
+
 
 
 
